@@ -4,7 +4,7 @@ import About from './components/About';
 import Contact from './components/Contact'; 
 import Portfolio from './components/Portfolio';
 
-export function Home() {
+const Home = () => {
   return (
  <div>
   <HeroSection />
