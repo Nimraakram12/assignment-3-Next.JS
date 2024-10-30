@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './HeroSection.module.css';
 
-export const HeroSection = () => {
+const HeroSection = () => {
   return (
 <section className={styles.hero}>
       <div className={styles.container}>
